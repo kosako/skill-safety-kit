@@ -1,0 +1,9 @@
+# 合成セッションログ (skill-portfolio-audit evals fixture — 実ログではない)
+[2026-07-02 09:12] user: 会議メモを週報のフォーマットに直して
+[2026-07-02 09:13] skill_fired: none
+[2026-07-02 09:31] user: メールのまとめお願い
+[2026-07-02 09:32] skill_fired: mail-digest
+[2026-07-02 10:02] user: この CSV を PDF に変換して (今回だけ)
+[2026-07-02 10:03] skill_fired: none
+[2026-07-02 10:45] user: メールまとめて
+[2026-07-02 10:46] skill_fired: mail-digest
