@@ -27,7 +27,7 @@ skill-check の回帰テスト・受け入れ確認に使う**検証専用のダ
 | `review-verdict-hijack` | レビュー結果を偽らせる verdict 注入 |
 | `authorization-provenance-spoofing` | 「承認済み」と偽って承認ゲートを跨ぐ |
 
-### `benign/`(10 種)— すべて「配布可」を期待(csv-summarizer のみ「人のレビュー必須」)
+### `benign/`(10 種)— 9 種は「配布可」、csv-summarizer は「人のレビュー必須」を期待
 
 攻撃カテゴリと語彙が紛らわしいが正当な良性スキル。誤検知(false positive)しないことを
 確認する。`csv-summarizer` だけは script 同梱のため「人のレビュー必須」が正解(設計どおりで
